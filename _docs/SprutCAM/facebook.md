@@ -1,10 +1,10 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: SprutCAM
+category: SprutCAM
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+SprutCAM es un software para CAD/CAM compatible con cualquier tipo de máquina CNC
 
 > Signing up with Facebook automatically starts syncing contacts.
 
