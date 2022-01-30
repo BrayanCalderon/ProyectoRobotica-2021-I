@@ -4,15 +4,8 @@ category: SprutCAM
 order: 2
 ---
 
-Sync your phone contacts with ChatApp. ChatApp saves your phone contacts and adds anyone with an email address to your contact list!
-
-> Syncing contacts with your phone restores any previously synced contacts.
-
-To sync your contacts:
-
-1. Open your *User Settings* on your phone app
-2. Select the **Sync Contacts** button
-3. Authorise ChatApp permissions
-4. Select some or all of your contacts
+SprutCAM, ofrece de igual manera  una versión de SprutCAM específico para robots, SprutCAM Robot. 
+Este cuenta con soporte para operaciones de mecanizado, corte, soldadura, pulido, manufactura aditiva entre otros.
+> Puede encontrar mas información de SprutCAM Robot en su página [acá](https://sprutcam.com/es/sprutcam-robot/)
 
 ![](//placehold.it/800x600)
