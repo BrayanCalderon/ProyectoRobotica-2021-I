@@ -1,6 +1,6 @@
 ---
 title: SprutCAM
-category: SprutCAM
+category: SprutCAM Software
 order: 1
 ---
 
