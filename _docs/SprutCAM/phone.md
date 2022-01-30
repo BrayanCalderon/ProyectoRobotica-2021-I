@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: SprutCAM Robot
+category: SprutCAM
 order: 2
 ---
 
