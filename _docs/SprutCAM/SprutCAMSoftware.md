@@ -9,7 +9,7 @@ SprutCAM es un software para CAD/CAM compatible con cualquier tipo de máquina C
 > Para leer más respecto a Sprutcam puede revisar su página oficial [aca](https://sprutcam.com/).
 
 
-![image info](images/SprutCAM.png)
+![image info](SprutCAM.png)
 
 
 ![](//placehold.it/800x600)
