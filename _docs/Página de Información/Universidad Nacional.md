@@ -4,6 +4,7 @@ category: Página de Información
 order: 2
 ---
 ![Alt text](../../images/UNShield.png?raw=true "Posicion")
+
 La [Universidad Nacional de Colombia](https://unal.edu.co/) (UNAL) es una universidad pública fundada bajo el gobierno de Santos Acosta el 22 de septiembre de 1867.
 Es la universidad más importante y representativa de Colombia por su tradición, prestigio, calidad y selectividad. Su campus insignia, la Ciudad Universitaria de Bogotá, 
 es el más grande del país y cuenta con 17 edificios declarados monumento nacional.

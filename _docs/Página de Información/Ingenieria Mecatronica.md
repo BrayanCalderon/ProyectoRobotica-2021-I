@@ -8,6 +8,6 @@ La Ingeniería Mecatrónica puede contextualizarse como una disciplina que integ
 
 La Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá, ofrece el programa de formación profesional en Ingeniería Mecatrónica con el propósito de fundamentar la innovación y el desarrollo de procesos automatizados en Colombia, modernizando así los sectores productivos del país.
 
-Para encontrar más información puede visitar la página oficial [aquí](https://ingenieria.bogota.unal.edu.co/es/formacion/pregrado/ingenieria-mecatronica.html)
+> Para encontrar más información puede visitar la página oficial [aquí](https://ingenieria.bogota.unal.edu.co/es/formacion/pregrado/ingenieria-mecatronica.html)
 
 ![](//placehold.it/800x600)
