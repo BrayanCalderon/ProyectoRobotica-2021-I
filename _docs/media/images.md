@@ -9,7 +9,7 @@ Share images with your friends! Send photos and pictures from your computer, pho
 > Images are stored until you choose to remove them.
 
 To share an image:
-
+![Alt text](../../images/CambiodePosicion.png?raw=true "Posicion")
 1. Open a message with someone
 2. Select the **Send Media** button
 3. Pick an image
