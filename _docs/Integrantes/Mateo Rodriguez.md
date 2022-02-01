@@ -7,7 +7,11 @@ order: 3
 
 ![Alt text](../../images/Mateo.png?raw=true "Posicion")
 
-mas cosas mas cosas mas cosas
+Estudiante de Ingeniería Mecatrónica de la Universidad Nacional de Colombia. Enfocado principalmente en el desarrollo de Inteligencia artificial y automatización.
+Cuenta con experiencia en programación por PLC, visión de maquina y electricidad industrial.
+
+> Puede encontrarlo en [LinkedIn](https://www.linkedin.com/in/alejandro-ojeda-olarte/).
+
 
 ![](//placehold.it/800x600)
 
