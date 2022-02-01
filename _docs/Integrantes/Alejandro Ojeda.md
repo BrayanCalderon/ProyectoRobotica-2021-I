@@ -6,7 +6,7 @@ order: 1
 
 
 
-To share an image:
+
 ![Alt text](../../images/Alejandro.png?raw=true "Posicion")
 
 Estudiante de Ingeniería Mecatrónica de la Universidad Nacional de Colombia. Su enfoque está en robótica, robótica móvil y espacial.
