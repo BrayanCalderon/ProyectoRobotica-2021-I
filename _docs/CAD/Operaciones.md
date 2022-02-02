@@ -1,7 +1,7 @@
 ---
-title: Pieza a Tallar
+title: Operaciones
 category: CAD
-order: 1
+order: 3
 ---
 
 Para el tallado del personaje se hizo uso de dos operaciones, una operación de desbaste que nos permite remover gran parte del material dandole una primer acercamiento a la forma deseada, como segunda operación tuvimos una operación de acabado. Para la operación de desbaste se hizo uso de una fresa de desbaste cilindrica de diametro 16mm x 125mm de largo como se puede ver a continuación. Las revoluciones utilizadas fueron las recomendadas por el fabricante, en este caso a 6000 revoluciones/min con un avance 840 mm/min.

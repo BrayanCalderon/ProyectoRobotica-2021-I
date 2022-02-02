@@ -1,6 +1,6 @@
 ---
-title:Código NC
-category:Código NC
+title: Código NC
+category: Código NC
 order: 1
 ---
 
