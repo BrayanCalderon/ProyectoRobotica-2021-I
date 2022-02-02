@@ -7,7 +7,7 @@ Este proyecto ha sido desarrollado por estudiantes de Ingeniería Mecatrónica d
 
 Tiene como objetivo aplicar las herramientas ofrecidas por el Software SprutCAM Robot para realizar un tallado de una figura, como puede ser el de un busto famoso. A partir de este software se realizó la simulación de un tallado de una pieza tipo Bas-Relief, haciendo uso de selección de herramientas acorde a las operaciones necesitadas en cada paso. El tallado se realiza con un robot KUKA KR150 con ayuda de una mesa rotatoria ubicado anexo a este.
 
-![Alt text](images/kuka-kr150.jpg?raw=true "Robot Kuka Kr150")
+![Alt text](images/kuka-kr1501.png?raw=true "Robot Kuka Kr150")
 
 
 ### Video de Simulación
