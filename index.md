@@ -11,6 +11,8 @@ Tiene como objetivo aplicar las herramientas ofrecidas por el Software SprutCAM 
 
 
 ### Video de Simulación
-[![Video Simulacion](https://img.youtube.com/vi/6EWsMStsazc/0.jpg)](https://www.youtube.com/watch?v=6EWsMStsazc)
+[![Video Simulacion](https://img.youtube.com/vi/bwBbKobaoW8/0.jpg)](https://www.youtube.com/watch?v=bwBbKobaoW8)
+
+
 
 > [Repositorio de Trabajo en Github (Enlace)](https://github.com/BrayanCalderon/ProyectoRobotica-2021-I)

@@ -11,4 +11,7 @@ Si se tienen activadas las opciones de colisión de pieza, máquina o de portahe
 
 ![Alt text](../../images/Simulation.png?raw=true "Desbaste")
 
+### Video Simulación Completo
+[![Video Simulacion](https://img.youtube.com/vi/6EWsMStsazc/0.jpg)](https://www.youtube.com/watch?v=6EWsMStsazc)
+
 > La barra azul con un punto, es un slider para la velocidad de la simulación.
