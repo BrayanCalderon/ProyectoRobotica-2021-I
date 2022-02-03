@@ -14,5 +14,5 @@ Tiene como objetivo aplicar las herramientas ofrecidas por el Software SprutCAM 
 [![Video Simulacion](https://img.youtube.com/vi/bwBbKobaoW8/0.jpg)](https://www.youtube.com/watch?v=bwBbKobaoW8)
 
 
-
+Para este repositorio se tienen dos branch, [Functional](https://github.com/BrayanCalderon/ProyectoRobotica-2021-I/tree/Functional) corresponde al que aloja todos los proyectos y archivos de CAD y CAM del proyecto.
 > [Repositorio de Trabajo en Github (Enlace)](https://github.com/BrayanCalderon/ProyectoRobotica-2021-I)
