@@ -12,6 +12,7 @@ A continuación podemos observar el Robot.
 Y la mesa rotativa.
 ![Alt text](../../images/MesaRotar.jpeg?raw=true "Posicion")
 
+> [Toda la información acerca del robot se encuentra en el siguiente link](https://www.kuka.com/-/media/kuka-downloads/imported/6b77eecacfe542d3b736af377562ecaa/pf0029_kr_1502_k_en.pdf)
 
 ![](//placehold.it/800x600)
 
